@@ -1,0 +1,5 @@
+1. The terminal is a program that you can enter data and commands to control your computer.
+
+2. The major difference between Git and Github is that Git is a version control system but Github is a Git hosting repository service.
+
+3. We use Github as a way of code sharing and further improvement. It hosts many different programming languages and programmers can upload their code.
